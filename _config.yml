@@ -1,0 +1,17 @@
+title: Carnet de vie
+description: Un site développé sous Jekyll et hébergé sur Github afin de répondre aux devoir de mes professeurs à l'origine bien que ce dernier restera bien après la fin de mes études
+username: Merytek
+user_description: >-
+  Je suis un étudiant au lycée un STI2D (vive les STI) qui d'origine pour certain de mes devoirs devait rendre des site
+  ayant une haine pour le code no code analytics je me suis mis à programmer mon site avec Jekyll basé sur le thème de Mauricio Urraco
+  désolé pour mes professeurs mais j'utiliserais un pseudonyme sur ce site je serais Merytek pour garder un certain anonymat
+  hors de ça je suis un jeune développeur qui adore écouter de la musique et regarder des films ou autre série si d'ailleurs vous voulez m'en proposé se sera possibe (enfin j'espère)
+
+user_title: STI2D dans l'art
+email: corentindessertenne@lyceedigoin.com
+exclude:
+  - package.json
+  - src
+  - node_modules
+baseurl: ''
+url: ''
