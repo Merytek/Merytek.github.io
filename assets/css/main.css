@@ -4665,6 +4665,7 @@ sub, sup {
 
 a#switch {
     text-decoration: none;
+    color: #3391FF;
 }
 
 a#switch :hover {
