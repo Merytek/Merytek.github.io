@@ -4670,7 +4670,7 @@ a#switch {
 }
 
 a#switch :hover {
-    text-decoration: underline;
+    text-decoration-line: underline;
     cursor: pointer;
 }
 
