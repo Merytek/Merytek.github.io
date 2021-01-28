@@ -4378,11 +4378,12 @@ h1, h2, h3, h4, stong {
     margin-top: 1em;
     padding-top: 1em;
     line-height: 1.25;
-    color: #333
+    color: #ffffff
 }
 
 h1 {
-    font-size: 2.5rem
+    font-size: 2.5rem;
+    color: #ffffff
 }
 
 h2 {
@@ -4670,6 +4671,7 @@ a#switch {
 
 a#switch :hover {
     text-decoration: underline;
+    cursor: pointer;
 }
 
 p {
