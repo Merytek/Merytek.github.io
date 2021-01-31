@@ -1,2 +1,2 @@
 source "https://rubygems.org"
-gem 'github-pages'
+gem 'https://github.com/Merytek/Merytek.github.io'

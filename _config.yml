@@ -15,9 +15,6 @@ exclude:
   - node_modules
 baseurl: ''
 url: ''
+plugins:
+  - jekyll-redirect-from
 
----
-title: Carnet de Spectateur
-redirect_from:
-  - /blog/spectateur/index.html
----
