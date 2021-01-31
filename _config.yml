@@ -9,6 +9,7 @@ user_description: >-
 
 user_title: STI2D dans l'art
 email: merytek.git@gmail.com
+blog: _blog/index.html
 exclude:
   - package.json
   - src
