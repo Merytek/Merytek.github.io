@@ -9,13 +9,12 @@ user_description: >-
 
 user_title: STI2D dans l'art
 email: merytek.git@gmail.com
-blog: _blog/index.html
+plugin:
+  - jekyll-redirect-from
 exclude:
   - package.json
   - src
   - node_modules
 baseurl: ''
 url: ''
-plugins:
-  - jekyll-redirect-from
-
+redirect_from: _layouts\dir\spectateur\index.html
