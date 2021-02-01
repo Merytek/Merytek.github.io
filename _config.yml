@@ -16,6 +16,6 @@ exclude:
   - src
   - node_modules
 baseurl: ''
-url: ''
+url: 'https://merytek.github.io/'
 redirect_from: 
-  - /_layouts/dir/spectateur/index.html
+  - _layouts/dir/spectateur/index.html
