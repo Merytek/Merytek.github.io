@@ -17,4 +17,4 @@ exclude:
   - node_modules
 baseurl: ''
 url: ''
-redirect_from: _layouts\dir\spectateur\index.html
+redirect_from: /_layouts/dir/spectateur/index.html
